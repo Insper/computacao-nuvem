@@ -12,7 +12,6 @@ giscus.json
 .git
 LICENSE
 MANIFEST.in
-material
 mkdocs-material
 package.json
 package-lock.json
