@@ -1,6 +1,6 @@
 ---
 template: overrides/main.html
-title: Insiders
+title: Adicional
 ---
 
 # Video - Vint Cerf
@@ -13,7 +13,13 @@ O primeiro passo para trabalharmos com redes é compreender o contexto ao qual e
   </div>
   <figcaption markdown>
 
+
+
 "https://www.youtube.com/watch?v=0kL2zNNgqzk"
 
   </figcaption>
 </figure>
+
+
+!!! video
+    ![]("https://www.youtube.com/watch?v=0kL2zNNgqzk")
