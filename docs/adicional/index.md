@@ -20,4 +20,7 @@ O primeiro passo para trabalharmos com redes é compreender o contexto ao qual e
 
 
 !!! video
-    ![lerolero]("https://www.youtube.com/embed/0kL2zNNgqzk")
+    ![]("https://www.youtube.com/embed/0kL2zNNgqzk")
+
+!!! video
+    ![](https://www.youtube.com/embed/Rtngc9UBV-k)
