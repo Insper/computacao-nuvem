@@ -22,11 +22,8 @@ O primeiro passo para trabalharmos com redes é compreender o contexto ao qual e
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kL2zNNgqzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-!!! video
-    ![]("https://www.youtube.com/embed/0kL2zNNgqzk")
 
 !!! video
-    ![](https://www.youtube.com/embed/Rtngc9UBV-k)
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/embed/0kL2zNNgqzk)
 
