@@ -20,14 +20,14 @@
 
 # Project information
 site_name: Computação em Nuvem
-site_url: https://insper.github.io/ComputacaoNuvem
+site_url: https://github.com/Insper/computacao-nuvem
 site_author: Tiago Demay
 site_description: >-
   Aqui vamos manter os roteiros de aula para facilitar o acesso ao conteudo
 
 # Repository
-repo_name: insper.github.io/ComputacaoNuvem
-repo_url: https://insper.github.io/ComputacaoNuvem
+repo_name: insper.github.io/computacao-nuvem
+repo_url: https://github.com/Insper/computacao-nuvem
 
 # Copyright
 copyright: Copyright &copy; 2022 - Tiago Demay
