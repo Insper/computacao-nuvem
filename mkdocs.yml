@@ -107,6 +107,17 @@ plugins:
 
 # Customization
 extra:
+
+  ihandout_config:
+#    counter:
+#      - question
+#      - tip
+#      - exercise
+#      - example
+    report:
+      api-base: https://devlife.insper-comp.com.br/api/offerings/1/
+      url: https://devlife.insper-comp.com.br/api/offerings/1/exercises/
+
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
@@ -121,6 +132,17 @@ extra:
       link: https://pypi.org/project/mkdocs-material/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/tiago-demay
+
+extra_css:
+  - https://cdn.jsdelivr.net/gh/insper-education/active-handout-css@main/devlife.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.0.0/js-yaml.min.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/gh/insper-education/active-handout-plugins-js@main/package/plugin-bundle.js
+
+
 
 # Extensions
 markdown_extensions:
