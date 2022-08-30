@@ -188,6 +188,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Roteiros:
+    - Roteiro Cabeamento: 0.Cabeamento.md  
     - Roteiro 1: 1.Bare_metal.md
 #    - Roteiro 2: 2.Deployment.md
   - Projetos:
