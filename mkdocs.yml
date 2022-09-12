@@ -190,7 +190,7 @@ nav:
   - Roteiros:
     - Roteiro Cabeamento: roteiros/0.Cabeamento.md  
     - Roteiro 1: roteiros/1.Bare_metal.md
-#    - Roteiro 2: roteiros/2.Deployment.md
+    - Roteiro 2: roteiros/2.Deployment.md
   - Projetos:
     - Tutorial de Introducao à AWS: projetos/0.Cloud_Intro.md
   - Conteudo adicional:
