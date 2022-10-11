@@ -52,5 +52,5 @@ Sua aplicação deverá seguir as funções (descrição) abaixo e a tabela comp
 
 !!! Dica
     Sugerimos que você estude a partir de documentações oficiais e tutoriais técnicos.
-    * [terraform.io](https://www.terraform.io/) 
-    * [terraform-aws-get-started](https://learn.hashicorp.com/collections/terraform/aws-get-started)
+        * [terraform.io](https://www.terraform.io/) 
+        * [terraform-aws-get-started](https://learn.hashicorp.com/collections/terraform/aws-get-started)
