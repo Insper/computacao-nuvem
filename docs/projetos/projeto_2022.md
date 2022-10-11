@@ -40,9 +40,9 @@ Sua aplicação deverá seguir as funções (descrição) abaixo e a tabela comp
 
 !!! example "ENTREGA"
 
-    · Os projetos deverão ser entregues até às 23h59 do dia 25/11/2022.
-    · A entrega será feita via blackboard por meio da associação de seu github.
-    · Todos os projetos deverão estar acompanhados de um roteiro (tutorial) de instalação e operação.
-    · Serão sorteados/escolhidos 16 projetos para apresentação no dia 01/12/2022.
-    · A publicação dos projetos que realizarão a apresentação será no dia 28/11/2022.
-    · A apresentação será realizada em um tempo máximo de 15 minutos a partir do roteiro entregue.
+    * Os projetos deverão ser entregues até às 23h59 do dia 25/11/2022.
+    * A entrega será feita via blackboard por meio da associação de seu github.
+    * Todos os projetos deverão estar acompanhados de um roteiro (tutorial) de instalação e operação.
+    * Serão sorteados/escolhidos 16 projetos para apresentação no dia 01/12/2022.
+    * A publicação dos projetos que realizarão a apresentação será no dia 28/11/2022.
+    * A apresentação será realizada em um tempo máximo de 15 minutos a partir do roteiro entregue.
