@@ -5,9 +5,11 @@ author: Tiago Demay
 
 # Projeto Cloud 2022
 
-Infraestrutura como código é o processo de gerenciamento de infraestrutura em um arquivo ou arquivos, em vez de configurar recursos manualmente em uma dashboard. Partindo deste conceito, você deverá desenvolver uma aplicação capaz de provisionar uma infraestrutura por meio de uma interface amigável para gerenciar e administrá-la (construir, alterar e deletar recursos).
+Infraestrutura como código é o processo de gerenciamento de infraestrutura em um arquivo ou arquivos, em vez de configurar recursos manualmente em uma dashboard. Partindo deste conceito, você deverá:
 
-A rubrica abaixo pressupõe que para alcançar o Conceito B você tenha feito o Conceito C por completo assim, para ter A precisa que os conceitos anteriores tenham sido alcançados  por diante.
+ **Desenvolver uma aplicação capaz de provisionar uma infraestrutura por meio de uma interface amigável(livre escolha) para gerenciar e administrá-la (construir, alterar e deletar recursos).**
+
+A rubrica abaixo pressupõe que para alcançar o Conceito "B" você tenha feito o Conceito "C" por completo. Assim, para ter "A" precisa que os conceitos anteriores tenham sido alcançados.
 
 Sua aplicação deverá seguir as funções (descrição) abaixo e a tabela completa para alcançar o conceito base.
 
