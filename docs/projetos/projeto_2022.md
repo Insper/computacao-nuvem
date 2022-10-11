@@ -46,3 +46,12 @@ Sua aplicação deverá seguir as funções (descrição) abaixo e a tabela comp
     * Serão sorteados/escolhidos 16 projetos para apresentação no dia 01/12/2022.
     * A publicação dos projetos que realizarão a apresentação será no dia 28/11/2022.
     * A apresentação será realizada em um tempo máximo de 15 minutos a partir do roteiro entregue.
+
+
+:zap::zap::zap: **Falta pouco para terminar o semestre, foquem em terminar os roteiros 3 e 4 em sala e desenvolva o projeto fora do horário de aula.** :zap::zap::zap:
+
+!!! Dica
+    Sugerimos que você estude a partir de documentações oficiais e tutoriais técnicos.
+
+   [terraform.io](https://www.terraform.io/) 
+   [terraform-aws-get-started](https://learn.hashicorp.com/collections/terraform/aws-get-started)
