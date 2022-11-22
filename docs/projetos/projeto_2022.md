@@ -16,7 +16,7 @@ Sua aplicação deverá seguir as funções (descrição) abaixo e a tabela comp
 
 | Conceito C+ | Descrição                          |
 | ----------- | ------------------------------------ |
-| `CRIAR`     | :material-check:        *VPC* criação de uma VPC e sub-rede; *instâncias*: esta funcionalidade deverá permitir a escolha de pelo menos 2 tipos de configuração de hosts; ainda deverá ser possível parar e iniciar as instâncias;  *security group*: criação e a associação de grupos de segurança com instâncias; *Usuário no IAM*. |
+| `CRIAR`     | :material-check:        *VPC* criação de uma VPC e sub-rede; *instâncias*: esta funcionalidade deverá permitir a escolha de pelo menos 2 tipos de configuração de hosts; ainda deverá ser possível aumentar e diminuir a quantidade de instâncias;  *security group*: criação e a associação de grupos de segurança com instâncias; *Usuário no IAM*. |
 | `DELETAR`   | :material-close:        Instâncias, grupos de segurança e usuário. |
 | `LISTAR`    | :material-check-all:    Aplicação deverá listar todas instâncias e suas regiões, usuários, grupos de segurança e suas regras. |
 
@@ -25,7 +25,7 @@ Sua aplicação deverá seguir as funções (descrição) abaixo e a tabela comp
 | Conceito B  | Descrição                         |
 | ----------- | ------------------------------------ |
 | `CRIAR`     | :material-check:        Regras em security group; Instância em mais de uma região; Associar algum tipo de restrição de acesso a um usuário; |
-| `DELETAR`   | :material-close:        Regras de security group; Região; |
+| `DELETAR`   | :material-close:        Regras de security group; recursos implantados na Região; |
 
 
 
