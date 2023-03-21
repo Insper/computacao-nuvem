@@ -192,8 +192,12 @@ nav:
   #   - Roteiro 4 - SLA, DR e IaC: roteiros/4.IaC.md
   #   - Roteiro 5 - Containers e K8s: roteiros/5.K8s.md
   - Projetos:
-      - Tutorial de Introducao à AWS: projetos/0.Cloud_Intro.md
-      - Temas do Projeto:
+      - Tutoriais:
+          - Primeiros Passos: projetos/0.Cloud_Intro.md
+      - Projetos 2022:
+          - Davi Reis: projetos_2022/DaviReisVieira.md
+          - Francisco Janela: projetos_2022/fran-janela.md
+      - Projetos 2023:
           - 1. Elastic Load Balancer:
               - 1.1. Sobre: projetos/1.ELB.md
           - 2. Relational Database Service:
