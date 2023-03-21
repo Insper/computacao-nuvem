@@ -194,6 +194,7 @@ nav:
   - Projetos:
       - Tutoriais:
           - Primeiros Passos: projetos/0.Cloud_Intro.md
+          - Cloud na Vida Real: projetos/construcao.md
       - Projetos 2022:
           - Davi Reis: projetos_2022/DaviReisVieira.md
           - Francisco Janela: projetos_2022/fran-janela.md
