@@ -188,7 +188,9 @@ nav:
       - Roteiro Cabeamento: roteiros/0.Cabeamento.md
       - Roteiro 1 - MAAS: roteiros/1.Bare_metal.md
       - Roteiro 2 - JUJU: roteiros/2.Deployment.md
-      - Roteiro 3 - OPENSTACK: roteiros/3.Private_Cloud_Stack.md
+      - Roteiro 3: 
+        - Roteiro - OpenStack:  roteiros/3.Private_Cloud_Stack.md
+        - Doc - OpenStack: roteiros/README-openstackBase.md
   #   - Roteiro 4 - SLA, DR e IaC: roteiros/4.IaC.md
   #   - Roteiro 5 - Containers e K8s: roteiros/5.K8s.md
   - Projetos:
