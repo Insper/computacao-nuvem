@@ -191,7 +191,7 @@ nav:
       - Roteiro 3: 
         - Roteiro - OpenStack:  roteiros/3.Private_Cloud_Stack.md
         - Doc - OpenStack: roteiros/README-openstackBase.md
-  #   - Roteiro 4 - SLA, DR e IaC: roteiros/4.IaC.md
+      - Roteiro 4 - SLA, DR e IaC: roteiros/4.IaC.md
   #   - Roteiro 5 - Containers e K8s: roteiros/5.K8s.md
   - Projetos:
       - Tutoriais:
