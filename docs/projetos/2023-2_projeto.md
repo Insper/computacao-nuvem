@@ -8,6 +8,7 @@
 
 1.
 **Infraestrutura como Código (IaC) com Terraform:**
+
 - Utilizar o Terraform para criar e gerenciar todos os recursos na AWS.
 - Estruturar o código Terraform utilizando módulos para separar responsabilidades (ex: módulo para EC2, módulo para RDS, etc.).
 - Armazenar o estado do Terraform em um bucket S3 para o lock do estado.
