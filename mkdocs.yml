@@ -200,7 +200,7 @@ nav:
   - Projetos:
       - Tutoriais:
           - Primeiros Passos: projetos/0.Cloud_Intro.md
-          - Cloud na Vida Real: projetos/construcao.md
+      #    - Cloud na Vida Real: projetos/construcao.md
       - Projeto 2023:
           - Rubrica: projetos/2023-2_projeto.md
       #     - Francisco Janela: projetos_2022/fran-janela.md
