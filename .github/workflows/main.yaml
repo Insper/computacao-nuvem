@@ -5,7 +5,7 @@ on:
 # Environment
 env:
   CI: true
-  PYTHON_VERSION: 3.x
+  PYTHON_VERSION: 3.10
 
 # Jobs to run
 jobs:
