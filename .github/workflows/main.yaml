@@ -5,7 +5,7 @@ on:
 # Environment
 env:
   CI: true
-  PYTHON_VERSION: 3.x
+  PYTHON_VERSION: 3.11
 
 # Jobs to run
 jobs:
@@ -17,10 +17,10 @@ jobs:
     steps:
 
       # Checkout source form GitHub
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       # Install Python runtime and dependencies
-      - uses: actions/setup-python@v1
+      - uses: actions/setup-python@v4
         with:
           python-version: ${{ env.PYTHON_VERSION }}
 
