@@ -195,8 +195,8 @@ nav:
         - Documentacao oficial: roteiros/README-openstackBase.md
       - Roteiro 4:
         - SLA, DR e IaC: roteiros/4.IaC.md
-      # - Roteiro 5:
-      #   - Containers e K8s: roteiros/5.K8s.md
+      - Roteiro 5:
+        - Containers e K8s: roteiros/5.K8s.md
   - Projetos:
       - Tutoriais:
           - Primeiros Passos: projetos/0.Cloud_Intro.md
