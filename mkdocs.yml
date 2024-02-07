@@ -186,24 +186,27 @@ nav:
   - Home: index.md
   - Roteiros:
     - Roteiro Cabeamento: roteiros/0.Cabeamento.md
-      #- Roteiro 1: 
-      #  - MAAS: roteiros/1.Bare_metal.md
-      #- Roteiro 2:
-      #  - JUJU: roteiros/2.Deployment.md
-      #- Roteiro 3: 
-      #  - OpenStack:  roteiros/3.Private_Cloud_Stack.md
-      #  - Documentacao oficial: roteiros/README-openstackBase.md
-      #- Roteiro 4:
-      #  - SLA, DR e IaC: roteiros/4.IaC.md
-      #- Roteiro 5:
-      #  - Containers e K8s: roteiros/5.K8s.md
+  #- Roteiro 1: 
+  #  - MAAS: roteiros/1.Bare_metal.md
+  #- Roteiro 2:
+  #  - JUJU: roteiros/2.Deployment.md
+  #- Roteiro 3: 
+  #  - OpenStack:  roteiros/3.Private_Cloud_Stack.md
+  #  - Documentacao oficial: roteiros/README-openstackBase.md
+  #- Roteiro 4:
+  #  - SLA, DR e IaC: roteiros/4.IaC.md
+  #- Roteiro 5:
+  #  - Containers e K8s: roteiros/5.K8s.md
   - Projetos:
     - Tutoriais:
       - Primeiros Passos: projetos/0.Cloud_Intro.md
       #    - Cloud na Vida Real: projetos/construcao.md
       #- Projeto 2024:
-      #    - Rubrica: projetos/2023-2_projeto.md
-      #     - Francisco Janela: projetos_2022/fran-janela.md
+      #  - Rubrica: projetos/2023-2_projeto.md
+
+    - Projetos 2022:
+      - Francisco Janela: projetos_2022/fran-janela.md
+      - Francisco Janela: projetos_2022/DaviReisVieira.md
     - Projetos 2023:
       - 1. Elastic Load Balancer:
         - 1.1. Sobre: projetos/1.ELB.md
