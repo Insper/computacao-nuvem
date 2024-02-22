@@ -186,8 +186,8 @@ nav:
   - Home: index.md
   - Roteiros:
     - Roteiro Cabeamento: roteiros/0.Cabeamento.md
-  - Roteiro 1: 
-    - MAAS: roteiros/1.Bare_metal.md
+    - Roteiro 1: 
+      - MAAS: roteiros/1.Bare_metal.md
   #- Roteiro 2:
   #  - JUJU: roteiros/2.Deployment.md
   #- Roteiro 3: 
