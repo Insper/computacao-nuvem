@@ -1,13 +1,15 @@
 # Implementação de Arquitetura Cloud na AWS com CloudFormation
-# **Escopo do Projeto:** 
-# Atencao: O seu projeto será avaliado pelo grau de profissionalismo na DOCUMENTACAO!!!
+## **Escopo do Projeto:** 
+## Atencao: O seu projeto será avaliado pelo grau de profissionalismo na DOCUMENTACAO!!!
+
+
 **Objetivo:** Provisionar uma arquitetura na AWS utilizando o CloudFormation, que englobe o uso de um Application Load Balancer (ALB), instâncias EC2 com Auto Scaling e um banco de dados DynamoDb.
 
 **Atencao: A escolha da região de implantacao deve ser baseada em custos e desempenho, isso deve aparecer no seu relatório.**
 
 **Requisitos Técnicos do Projeto:**
 
-## **Rubricas do projeto para tirar C+**
+### **Rubricas do projeto para tirar C+**
 
 **Infraestrutura como Código (IaC) com CloudFormation:**
 
@@ -44,7 +46,7 @@
 * Utilizar a Calculadora de Custo da AWS para estimar os custos mensais da arquitetura proposta.
 * Considerar os custos de todos os recursos utilizados (EC2, ALB, Db, etc.).
 
-# **O que deverá ser entregue para C+ ---> Documentação:**
+### **O que deverá ser entregue para C+ ---> Documentação:**
 
 * Criar uma documentação técnica que inclua um diagrama da arquitetura AWS.
 * Documentar todas as decisões técnicas tomadas e justificá-las.
@@ -52,7 +54,7 @@
 * Elaborar um relatório detalhado com a previsão de custos, destacando os principais gastos e possíveis otimizações.
 * Colocar o link do repositorio com o código CloudFormation no Documento.
 
-## **Rubricas do projeto para tirar B+**
+### **Rubricas do projeto para tirar B+**
 
 **Analise de carga:**
 
@@ -93,10 +95,10 @@ Permite executar testes escritos em JMeter, Gatling, Locust, Selenium e outras f
 Focado em simplificar a configuração e execução de testes.
 
 
-## **O que deverá ser entregue para B+ ---> Documentação:**
+### **O que deverá ser entregue para B+ ---> Documentação:**
 * Adicionar a documentação anterior a Análise de Custo real com a utilização dos testes de carga na infraestrutura criada na AWS. Utilizar a aba de Biling da AWS, separar os custos do seu projeto via Tags
 
-## Rubricas do projeto para tirar A
+### Rubricas do projeto para tirar A
 
 **AWS CodePipeline e AWS Secrets Manager**
 O AWS CodePipeline é um serviço totalmente gerenciado de entrega contínua que ajuda a automatizar pipelines de lançamento para oferecer atualizações rápidas e confiáveis de aplicações e infraestruturas.
@@ -104,5 +106,5 @@ O AWS CodePipeline é um serviço totalmente gerenciado de entrega contínua que
 * Voce deve utilizar os codigo gerados e o entendimento de chaves, para criar uma pipeline na AWS, ela deve atualizar a sua infraestrutura sempre que o codigo for alterado, sem a necessiade de comando por parte de qualquer usuario.
 * É obrigatório o uso de AWS Secrets Manager, para guardar as credenciais de acesso programatico da AWS.
 
-## **O que deverá ser entregue para A+ ---> Documentação:**
+### **O que deverá ser entregue para A+ ---> Documentação:**
 * Adicionar na documentação anterior a explicacão sobre CodePipeline, como utilizar e como foi a sua infraestrutura é criada a partir de CI/CD.

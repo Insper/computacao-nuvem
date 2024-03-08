@@ -202,6 +202,16 @@ nav:
     #   - Primeiros Passos: projetos/0.Cloud_Intro.md
       #    - Cloud na Vida Real: projetos/construcao.md
 
+    - Projetos 2022:
+      - Francisco Janela: projetos_2022/fran-janela.md
+      - Davi Reis: projetos_2022/DaviReisVieira.md
+    - Projeto 2023:
+      - Rubrica: projetos_2023/2023-2_projeto.md
+      - Andre: projetos_2023/README_andre.md
+      - Rodrigo: projetos_2023/README_andre.md
+    - Projeto 2024:
+      - Rubrica: projetos_2024/2024-1_projeto.md
+
     - Conceitos tecnologias AWS:
       - 1. Elastic Load Balancer:
         - 1.1. Sobre: conceitos/1.ELB.md
@@ -234,15 +244,6 @@ nav:
       - 15. AWS CloudWatch:
         - 15.1. Sobre: conceitos/15.CloudWatch.md
 
-      - Projetos 2022:
-        - Francisco Janela: projetos_2022/fran-janela.md
-        - Davi Reis: projetos_2022/DaviReisVieira.md
-      - Projeto 2023:
-        - Rubrica: projetos_2023/2023-2_projeto.md
-        - Andre: projetos_2023/README_andre.md
-        - Rodrigo: projetos_2023/README_andre.md
-      - Projeto 2024:
-        - Rubrica: projetos_2024/2024-1_projeto.md
 
 
   - Conteudo adicional:
