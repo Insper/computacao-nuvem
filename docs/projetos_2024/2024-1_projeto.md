@@ -1,4 +1,4 @@
-# Implementação de Arquitetura Cloud na AWS com CloudFormation
+# Implementação de Arquitetura Cloud
 ## **Escopo do Projeto:** 
 ## Atencao: O seu projeto será avaliado pelo grau de profissionalismo na DOCUMENTACAO!!!
 
