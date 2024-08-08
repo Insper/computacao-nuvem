@@ -1,7 +1,7 @@
 /* Estilos para o modo escuro */
 body[data-md-color-scheme="slate"] {
     --md-default-bg-color: #2e3c43;
-    --md-default-fg-color: #ffffff;
+    --md-default-fg-color: #454945;
   }
   
   /* Estilos para a barra de navegação no modo escuro */
