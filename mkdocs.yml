@@ -150,6 +150,7 @@ extra:
       link: https://www.linkedin.com/in/tiago-demay
 
 extra_css:
+  - overrides/extra.css
   - https://cdn.jsdelivr.net/gh/insper-education/active-handout-css@main/devlife.css
 
 extra_javascript:

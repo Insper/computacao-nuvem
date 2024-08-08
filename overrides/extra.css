@@ -1,0 +1,38 @@
+/* Estilos para o modo escuro */
+body[data-md-color-scheme="slate"] {
+    --md-default-bg-color: #2e3c43;
+    --md-default-fg-color: #ffffff;
+  }
+  
+  /* Estilos para a barra de navegação no modo escuro */
+  [data-md-color-scheme="slate"] .md-header, 
+  [data-md-color-scheme="slate"] .md-sidebar {
+    background-color: var(--md-default-bg-color) !important;
+    color: var(--md-default-fg-color) !important;
+  }
+  
+  /* Estilos para os links na navegação no modo escuro */
+  [data-md-color-scheme="slate"] .md-nav__link {
+    color: var(--md-default-fg-color) !important;
+  }
+  
+  /* Estilos para os cabeçalhos no modo escuro */
+  [data-md-color-scheme="slate"] h1, 
+  [data-md-color-scheme="slate"] h2, 
+  [data-md-color-scheme="slate"] h3, 
+  [data-md-color-scheme="slate"] h4, 
+  [data-md-color-scheme="slate"] h5, 
+  [data-md-color-scheme="slate"] h6 {
+    color: var(--md-default-fg-color) !important;
+  }
+  
+  /* Estilos para o índice à direita no modo escuro */
+  [data-md-color-scheme="slate"] .md-nav--secondary {
+    background-color: var(--md-default-bg-color) !important;
+    color: var(--md-default-fg-color) !important;
+  }
+  
+  [data-md-color-scheme="slate"] .md-nav--secondary a {
+    color: var(--md-default-fg-color) !important;
+  }
+  
