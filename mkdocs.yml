@@ -85,7 +85,7 @@ theme:
       background: '#2e3c43'
       text: white
       toggle:
-        icon: material/brightness-4
+        icon: material/brightness-2
         name: Switch to light mode
   # palette:
   #   - scheme: default
