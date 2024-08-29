@@ -210,7 +210,7 @@ nav:
       - JUJU: roteiros/2.Deployment.md
     - Roteiro 3: 
       - OpenStack:  roteiros/3.Private_Cloud_Stack.md
-  #  - Documentacao oficial: roteiros/README-openstackBase.md
+      - Documentacao oficial: roteiros/README-openstackBase.md
   #- Roteiro 4:
   #  - SLA, DR e IaC: roteiros/4.IaC.md
   #- Roteiro 5:
