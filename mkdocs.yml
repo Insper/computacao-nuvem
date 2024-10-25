@@ -192,7 +192,7 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+          #format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -228,7 +228,7 @@ nav:
       - Andre: projetos_2023/README_andre.md
       - Rodrigo: projetos_2023/README_rodrigo.md
     - Projeto 2024:
-      - Rubrica: projetos_2024/2024-1_projeto.md
+      - Rubrica: projetos_2024-1/2024-1_projeto.md
     - Projeto 2024-2:
       - Rubrica: projetos_2024-2/2024-2_projeto.md      
 
