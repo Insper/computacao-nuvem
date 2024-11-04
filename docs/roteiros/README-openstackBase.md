@@ -1,4 +1,4 @@
-# Basic OpenStack cloud
+# Documentação Retirada do site oficial para consulta
 
 This `openstack-base` bundle deploys a base OpenStack cloud. Its major elements
 include:
