@@ -203,7 +203,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Roteiros:
-    - Cabeamento: roteiros/0.Cabeamento.md
     - Roteiro 1 MAAS: 
       - Objetivo : roteiros/1.Bare_metal.md
       - Infra: roteiros/1.infra.md
