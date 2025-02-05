@@ -205,8 +205,9 @@ nav:
   - Roteiros:
     - Cabeamento: roteiros/0.Cabeamento.md
     - Roteiro 1 MAAS: 
-      - Infra: roteiros/1.Bare_metal.md
-      - Infra: roteiros/1.app.md
+      - Objetivo : roteiros/1.Bare_metal.md
+      - Infra: roteiros/1.infra.md
+      - App: roteiros/1.app.md
     # - Roteiro 2:
     #   - JUJU: roteiros/2.Deployment.md
     # - Roteiro 3: 
@@ -268,4 +269,5 @@ nav:
 
 
   - Conteudo adicional:
+      - Cabeamento: adicional/0.Cabeamento.md
       - Governanca Internet: adicional/index.md
