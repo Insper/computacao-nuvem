@@ -24,3 +24,4 @@ tsconfig.json
 typings
 .vscode
 /venv
+env

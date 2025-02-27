@@ -204,11 +204,13 @@ nav:
   - Home: index.md
   - Roteiros:
     - Roteiro 1 MAAS: 
-      - Objetivo : roteiros/1.Bare_metal.md
+      - Objetivo : roteiros/1.objetivo.md
       - Infra: roteiros/1.infra.md
       - App: roteiros/1.app.md
-    # - Roteiro 2:
-    #   - JUJU: roteiros/2.Deployment.md
+    - Roteiro 2 JUJU:
+      - Objetivo: roteiros/2.objetivo.md
+      - Infra: roteiros/2.infra.md
+      - App: roteiros/2.app.md
     # - Roteiro 3: 
     #   - OpenStack:  roteiros/3.Private_Cloud_Stack.md
     #   - Documentacao oficial para consulta: roteiros/README-openstackBase.md
