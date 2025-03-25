@@ -53,6 +53,8 @@ theme:
   features:
     # - announce.dismiss
     - content.code.annotate
+    - content.code.copy
+    - content.code.select
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
@@ -144,7 +146,7 @@ extra:
       link: https://www.linkedin.com/in/tiago-demay
 
 extra_css:
-  - overrides/extra.css
+  - assets/stylesheets/extra.css
 #  - https://cdn.jsdelivr.net/gh/insper-education/active-handout-css@main/devlife.css
 
 extra_javascript:
@@ -170,8 +172,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -205,7 +207,10 @@ nav:
       - Objetivo: roteiros/2.objetivo.md
       - Infra: roteiros/2.infra.md
       - App: roteiros/2.app.md
-    # - Roteiro 3: 
+    - Roteiro 3 OpenStack: 
+      - Objetivo: roteiros/3.objetivo.md
+      - Infra: roteiros/3.infra.md
+      - App: roteiros/3.app.md
     #   - OpenStack:  roteiros/3.Private_Cloud_Stack.md
     #   - Documentacao oficial para consulta: roteiros/README-openstackBase.md
     # - Roteiro 4:
