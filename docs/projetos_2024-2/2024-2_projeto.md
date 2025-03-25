@@ -190,12 +190,16 @@ O docker compose deve conter pelo menos 2 serviços: a aplicação e o banco de 
 
 ``` mermaid
 flowchart LR
-  subgraph docker compose
-    direction TB
-    App --> Postgres
-    Postgres --> App
-  end
+    subgraph api [Docker Compose]
+        direction TB
+        app e3@==> db@{ shape: cyl, label: "Database" }
+    end
+    internet e1@==>|request| app
+    e1@{ animate: true }
+    e3@{ animate: true }
 ```
+
+
 
 A aplicação deve ser autocontida, ou seja, deve ser possível executar a aplicação apenas com o comando `docker compose up` - pois isso é parte essencial da entrega.
 
