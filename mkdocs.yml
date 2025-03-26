@@ -210,6 +210,7 @@ nav:
     - Roteiro 3 OpenStack: 
       - Objetivo: roteiros/3.objetivo.md
       - Infra: roteiros/3.infra.md
+      - Setup: roteiros/3.setup.md
       - App: roteiros/3.app.md
     #   - OpenStack:  roteiros/3.Private_Cloud_Stack.md
     #   - Documentacao oficial para consulta: roteiros/README-openstackBase.md
