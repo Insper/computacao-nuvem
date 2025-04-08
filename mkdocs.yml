@@ -184,6 +184,8 @@ markdown_extensions:
       repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      url_download: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -234,6 +236,8 @@ nav:
       - Rubrica: projetos_2024-1/2024-1_projeto.md
     - Projeto 2024-2:
       - Rubrica: projetos_2024-2/2024-2_projeto.md      
+    - Projeto 2025-1:
+      - Rubrica: projetos_2025-1/projeto.md      
 
   - Conceitos tecnologias AWS:
     - 1. Elastic Load Balancer:
