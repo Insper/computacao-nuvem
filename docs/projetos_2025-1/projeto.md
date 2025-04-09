@@ -278,7 +278,7 @@ A entrega deverá ser um link do projeto no GitHub, contendo o código da API e 
     2. Aqui é feito um túnel da porta 5432 do container do banco de dados para a porta 5432 do host (no caso localhost). Em um ambiente de produção, essa porta não deve ser exposta, pois ninguém de fora do compose deveria acessar o banco de dados diretamente.
 
     ``` { .env title=".env" }
-    POSTGRES_DB=superprojeto
+    POSTGRES_DB=meuprojeto
     POSTGRES_USER=meuprojeto
     POSTGRES_PASSWORD=S3cr3t
     ```
@@ -332,7 +332,7 @@ A entrega deverá ser um link do projeto no GitHub, o mesmo do anterior, mas par
     |   | AWS + Documentação | + 2 conceitos |
 
 !!! tip "Ponto extra"
-    Se a primeira etapa for entregue até o dia 25.out, o aluno ganha meio conceito extra na nota final, ou seja, se ele tirar C, fica com C+.
+    Se a primeira etapa for entregue até o dia 30.abr, o aluno ganha meio conceito extra na nota final, ou seja, se ele tirar C, fica com C+.
 
 
 ## Anexos
