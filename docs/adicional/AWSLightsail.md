@@ -10,10 +10,8 @@ O Amazon Lightsail é a forma mais fácil de começar com a AWS para qualquer um
 
 ---
 
-[Criando Uma Instância](AWS%20Lightsail%20b8579b96425d42a38ccc4f44b475471b/Criando%20Uma%20Insta%CC%82ncia%20f5b1feb21a664d8890349bdeedb82930.md)
+## Criando Uma Instância
 
-[Administrando a Instância](AWS%20Lightsail%20b8579b96425d42a38ccc4f44b475471b/Administrando%20a%20Insta%CC%82ncia%207b02b0ddc4aa42d9b879ae7ce5f1e2a9.md)
+## Administrando a Instância
 
-[Load Balancer](AWS%20Lightsail%20b8579b96425d42a38ccc4f44b475471b/Load%20Balancer%20c9f81a515235456caa8698bde0aea2b5.md)
-
-[Container Service](AWS%20Lightsail%20b8579b96425d42a38ccc4f44b475471b/Container%20Service%20eea2bf6a0e1a4d63875a36f178265b14.md)
+## Container Service
