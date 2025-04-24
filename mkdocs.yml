@@ -276,7 +276,4 @@ nav:
   - Conteudo adicional:
       - Cabeamento: adicional/0.Cabeamento.md
       - Governanca Internet: adicional/Videos_ref.md
-      - Ligthsail: adicional/AWSLigthsail.md
-          # - Instancia: adicional/topicos/AWSLigthsailInstancia.md
-          # - Administração: adicional/topicos/AWSLigthsailAdmin.md
-          # - Container: adicional/topicos/AWSLigthsailContainer.md
+
