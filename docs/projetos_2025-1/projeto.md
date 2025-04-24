@@ -8,12 +8,21 @@
 
 O projeto do semestre trata de uma API [RESTful](https://www.w3.org/2001/sw/wiki/REST){:target="_blank"} que deve ser capaz de cadastrar e autenticar usuários. Logo, para a execução do projeto, é necessário a construção de uma API RESTful para validar a infraestrutura de um aplicativo. Após a construção da API, o projeto deve ser dockerizado e, então, implantado no AWS. A fim de realizar todo o projeto, ele foi dividido em 2 etapas:
 
-
 1. [Dockerinzing](#dockerinzing)
 
 2. [AWS](#aws)
 
 A base do projeto é a construção da API.
+
+## Objetivo da Avaliação
+Avaliar o domínio dos alunos em:
+
+1. Containerização local com Docker Compose
+1. Deploy em ambiente de nuvem com AWS Lightsail
+1. Conexão segura com banco de dados
+1. Estruturação de aplicação web com FastAPI
+1. Boas práticas de código, documentação e custo
+
 
 ## Etapa 1
 
@@ -241,7 +250,7 @@ Após a dockerização, o projeto deve ser publicado no Docker Hub. O link do Do
 !!! warning "Publicação no Docker Hub"
     A publicação no docker hub deve ser feita via linha de comando. E os comandos utilizados devem ser incluídos na documentação do projeto.
 
-### Entrega
+### Entrega 1
 
 A entrega deverá ser um link do projeto no GitHub, contendo o código da API e o Dockerfile.
 
@@ -300,40 +309,94 @@ A entrega deverá ser um link do projeto no GitHub, contendo o código da API e 
 
 ## Etapa 2
 
-### AWS
+### Projeto FastAPI no AWS Lightsail
 
-O próximo passo é implantar a aplicação no AWS.
+A parte 2 do projeto consiste em:
 
-<!-- ### Entrega
+- Implantar sua aplicação (ex:FastAPI)  utilizando o AWS Lightsail Container Service.
+- Configurar um banco de dados gerenciado (ex:PostgreSQL) no Lightsail.
+- Conectar sua aplicação ao banco de dados.
+- Gerenciar e monitorar o custo do serviço em produção. (Sua conta não pode gastar mais de 50 dolares mês)
 
-A entrega deverá ser um link do projeto no GitHub, o mesmo do anterior, mas para uma sessão sobre a publicação na AWS, contendo o uma breve explicação e um link para um vídeo, explicando e executando o trabalho entregue.
+**Pré-requisitos:** Conclusão da primeira parte do projeto com a aplicação containerizada localmente utilizando Docker Compose.
+
+Antes de iniciar, certifique-se de ter:
+
+- Conta ativa na AWS com acesso ao Lightsail.
+- Docker instalado e configurado.
+- Código da aplicação FastAPI pronto e funcional localmente.
+
+#### Na aba, conteudo adicional do site da disciplina temos explicações sobre o Ligthsail, utilizem como referencia.
+
+!!! tip "Dicas"
+    1. Acesse o [AWS Lightsail](https://lightsail.aws.amazon.com/) e vá para **Containers**.
+    2. Clique em **Create container service**.
+    3. Configure:
+    - **Service name:** `fastapi-service`
+    - **Power:** Escolha conforme a necessidade (ex: `Micro`)
+    - **Scale:** Número de instâncias (ex: `1`)
+    4. Clique em **Create container service**.
+
+    > 🔒 **Nota:** O serviço será criado com um domínio padrão fornecido pela AWS.
+
+    1. No Lightsail, vá para **Databases** e clique em **Create database**.
+    2. Configure:
+    - **Database engine:** `PostgreSQL`
+    - **Database name:** `fastapi-db`
+    - **Master username:** `admin`
+    - **Password:** Defina uma senha segura
+    - **Availability zone:** Escolha a mesma da aplicação
+    - **Public mode:** Ative para permitir conexões externas
+    3. Clique em **Create database**.
+
+    > 🔐 **Nota:** Anote o endpoint, porta, nome de usuário e senha para uso posterior.
+
+### Entrega 2
+
+A entrega deverá ser um link do projeto no GitHub, contendo alem do entregue antes (o código da API e o Dockerfile),deve ter tambem:
 
 !!! success "Entrega"
-    O vídeo apresentado deve ter entre 2 e 3 minutos e **DEVE demonstrar TODOS** os seguintes itens:
+    Deve haver uma documentação básica do projeto no MkDocs, contendo:
 
-    - logar na conta e acessar o projeto;
-    - explicar o que foi feito e mostrar os componentes do projeto (eks, roles, etc);
-    - executar o comando `kubectl get pods` e mostrar os pods rodando;
-      ``` shell
-      kubectl get pods
-      ```
-    - mostrar o projeto executando na AWS: chamada da API por um cliente (curl, postman, etc);
-
-    No texto deve haver um link para os arquivos de configuração do Kubernetes (arquivos .yaml: deployment.yaml, service.yaml, etcs), repositório do projeto. -->
+    - explicação do projeto - scrap do que foi feito;
+    - explicação de como executar a aplicação;
+    - screenshot com os endpoints AWS testados;
+    - screenshot da infraestrutura funcionando na AWS;
+    - Tela dos custos da conta no mesmo dia da submissão dos documentos;
+    - video de execução da aplicação funcionando no Ligthsail - de até 1 minuto mostrando o acesso e a gravação de dados no banco de dados em Cloud;
+    - Para conceito B, na documentação dos custos deve ser projetado para: 1, 5 e 10 instancias de containers;
 
 ## Rubrica
 
 !!! danger "Rubrica"
 
-    | Etapa | Critério | Nota | Observações |
-    |:-:|---|:-:|:-:|
-    | 1 | API + Dockerização<br> + Docker Hub + Documentação | C |  |
-    | 2 | AWS | + 1 conceito | - 2 conceitos se não entregar a etapa do AWS |
-    |   | AWS + Documentação | + 2 conceitos |
+    | Critério | Observações |
+    |:----------|:------------|
+    | FastAPI funcional com Docker Compose e banco local (PostgreSQL ou MySQL) | App sobe com `docker-compose up`, banco acessível pela aplicação |
+    | Imagem publicada no Docker Hub e projeto organizado (`.env`, `.dockerignore`, estrutura clara) | Demonstra conhecimento mínimo em containerização |
+    | Documentação mínima local (`README.md`) | Instruções para build e execução, com informações da aplicação |
+    | Deploy funcional no AWS Lightsail Containers | App acessível publicamente via URL fornecida pela AWS |
+    | Banco de dados gerenciado no Lightsail funcionando e conectado à aplicação  | Uso correto de variáveis de ambiente, sem `localhost` no backend |
+    | Documentação da etapa na nuvem com instruções básicas de deploy | Link de acesso + descrição do processo de publicação |
+    | Não estourar o **custo mensal** da infraestrutura que deve ser ≤ USD 50 | Custo estimado com base nos planos usados, infração detalhada abaixo. |
+    | **Conceito C = Aprovado** se todas as partes funcionarem e forem documentadas| Projeto mínimo completo e compreensível com as entregas 1 e 2 feitas |
+    | Entregar o Conceito C | ------------ |
+    | Apresentar a **arquitetura final** do projeto em **diagrama** | Indicar os componentes: app, container, banco, rede, domínio |
+    | Informar corretamente os **recursos alocados** (plano Lightsail, RAM, CPU, tipo do DB) | Pode ser um parágrafo ou print com descrição dos planos usados |
+    | Estimar o **custo mensal** da infraestrutura (≤ USD 50) | Custo estimado com base nos planos usados, pode ser por texto ou print |
+    | **Conceito B = Aluno demonstra clareza na arquitetura e planejamento do uso de nuvem** | A entrega vai além da execução, com compreensão de recursos e custos |
+    | Entregar o Conceito B | ------------ |
+    | Documentação detalhada (ex: imagens do Lightsail, MkDocs, explicação clara do fluxo) | Entrega cuidadosa e bem comunicada |
+    | Explicação sobre a integração app ↔ banco (host, porta, segurança, variáveis) | Demonstra domínio técnico da arquitetura e da integração |
+    | Banco de Dados instalado em Instancia no Ligthsail e conectado a aplicação | Demonstra domínio adicional sobre a arquitetura e produção |
+    | **Conceito A = Entrega clara, comunicada, com domínio da solução em nuvem** | Mostra que o aluno sabe o que fez, como funciona e quanto custa |
 
-!!! tip "Ponto extra"
+
+!!! tip "Ponto Extra ou Negativo !!!!"
+   
     Se a primeira etapa for entregue até o dia 30.abr, o aluno ganha meio conceito extra na nota final, ou seja, se ele tirar C, fica com C+.
-
+   
+    A cada 10 dolares gasto a mais que o custo planejado USD 50, o aluno perde meio conceito extar na nota final ou seja, se ele tirar C+, fica com C.
 
 ## Anexos
 
@@ -408,5 +471,3 @@ compose.yaml
 [^1]: [Introduction to JSON Web Tokens](https://jwt.io/introduction){target='_blank'}
 
 [^2]: [How to containerize different types of services](https://docs.docker.com/samples/){target='_blank'}
-
-[^3]: :fontawesome-brands-youtube:{ .youtube } [Como criar um cluster Kubernetes na AWS com EKS](https://youtu.be/JrT5YV1KMeY){:target="_blank"} por [Fabricio Veronez](https://github.com/fabricioveronez){:target="_blank"}
