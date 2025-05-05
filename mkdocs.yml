@@ -216,8 +216,12 @@ nav:
       - App: roteiros/3.app.md
     #   - OpenStack:  roteiros/3.Private_Cloud_Stack.md
     #   - Documentacao oficial para consulta: roteiros/README-openstackBase.md
-    # - Roteiro 4:
-    #   - SLA, DR e IaC: roteiros/4.IaC.md
+    - Roteiro 4 SLA, DR e IaC:
+      # - SLA, DR e IaC: roteiros/4.IaC.md
+      - Objetivo: roteiros/4.objetivo.md
+      - Infra: roteiros/4.infra.md
+      - App: roteiros/4.app.md
+
     # - Roteiro 5:
     #   - LoadBalancer, Containers e K8s: roteiros/5.K8s.md
   - Projetos:
