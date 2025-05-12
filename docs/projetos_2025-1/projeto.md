@@ -30,7 +30,7 @@ Avaliar o domínio dos alunos em:
 
 O aplicativo teve ser uma API RESTful simples, sem interface visual. Sendo que a API deve ser capaz de cadastrar e autenticar usuários, além de permitir a consulta de dados de terceiros.
 
-A API dever ter no mínimo 3 endpoints:
+A API dever ter no mínimo 4 endpoints:
 
 ???+ note "Registro de Usuário"
     
@@ -189,6 +189,29 @@ A API dever ter no mínimo 3 endpoints:
 
         A escolha dos dados é livre, mas deve ser algo que possa ser atualizado frequentemente, ao menos, diariamente. Claro, respeitando os termos de uso do site.
 
+
+???+ note "Health Check"
+
+    ``` http title="Endpoint"
+    GET /health-check
+    ```
+
+    ``` { .yaml title="Response" }
+    {
+        "statusCode": 200,
+        "timestamp": "2024-09-16T12:00:00Z",
+        "hostname": "ip-172-16-0-12" #(1)!
+    }
+    ```
+
+    1. Apenas um exemplo de resposta. O hostname deve ser o IP ou nome da máquina onde a API está rodando.
+
+    **STATUS CODE**: 200
+
+    Esse endpoint é para ser utilizado no AWS Lightsail para verificar se a aplicação está rodando. O retorno deve ser obrigatoriamente um status code `200`.
+
+
+
 !!! tip
 
     O projeto pode ser desenvolvido em qualquer linguagem de programação ou banco de dados, mas é recomendado o uso de Python ou Java e de MySQL ou PostgreSQL.
@@ -275,7 +298,7 @@ A entrega deverá ser um link do projeto no GitHub, contendo o código da API e 
         db:
             image: postgres:17
             environment:
-                POSTGRES_DB: ${POSTGRES_DB:-projeto} # (1)!
+                POSTGRES_DB: ${POSTGRES_DB:-projeto} #(1)!
                 POSTGRES_USER: ${POSTGRES_USER:-projeto}
                 POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-projeto}
             ports:
