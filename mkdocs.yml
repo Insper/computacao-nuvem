@@ -221,7 +221,10 @@ nav:
       - Objetivo: roteiros/4.objetivo.md
       - Infra: roteiros/4.infra.md
       - App: roteiros/4.app.md
-
+    - Roteiro 5 Docker e Kubernetes:
+      - Objetivo: roteiros/5.objetivo.md
+      - Infra: roteiros/5.infra.md
+      - App: roteiros/5.app.md
     # - Roteiro 5:
     #   - LoadBalancer, Containers e K8s: roteiros/5.K8s.md
   - Projetos:
