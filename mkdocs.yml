@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: "Computação em Nuvem - 2025/1"
+site_name: "Computação em Nuvem - 2025/2"
 site_url: https://github.com/Insper/computacao-nuvem
 site_author: Tiago Demay
 site_description: >-
@@ -214,10 +214,7 @@ nav:
       - Infra: roteiros/3.infra.md
       - Setup: roteiros/3.setup.md
       - App: roteiros/3.app.md
-    #   - OpenStack:  roteiros/3.Private_Cloud_Stack.md
-    #   - Documentacao oficial para consulta: roteiros/README-openstackBase.md
     - Roteiro 4 SLA, DR e IaC:
-      # - SLA, DR e IaC: roteiros/4.IaC.md
       - Objetivo: roteiros/4.objetivo.md
       - Infra: roteiros/4.infra.md
       - App: roteiros/4.app.md
@@ -225,13 +222,12 @@ nav:
       - Objetivo: roteiros/5.objetivo.md
       - Infra: roteiros/5.infra.md
       - App: roteiros/5.app.md
-    # - Roteiro 5:
-    #   - LoadBalancer, Containers e K8s: roteiros/5.K8s.md
-  - Projetos:
-    # - Tutoriais:
-    #   - Primeiros Passos: projetos/0.Cloud_Intro.md
-      #    - Cloud na Vida Real: projetos/construcao.md
 
+  - Tutoriais:
+  
+  - Projeto- 2025-2:
+
+  - Arquivo:
     - Projetos 2022:
       - Francisco Janela: projetos_2022/fran-janela.md
       - Davi Reis: projetos_2022/DaviReisVieira.md
@@ -245,47 +241,16 @@ nav:
       - Rubrica: projetos_2024-2/2024-2_projeto.md      
     - Projeto 2025-1:
       - Rubrica: projetos_2025-1/projeto.md      
-
-  - Conceitos tecnologias AWS:
-    - 1. Elastic Load Balancer:
-      - 1.1. Sobre: conceitos/1.ELB.md
-    - 2. Relational Database Service:
-      - 2.1. Sobre: conceitos/2.RDS.md
-    - 3. EC2:
-      - 3.1. Sobre: conceitos/3.EC2.md
-    - 4. Auto Scaling:
-      - 4.1. Sobre: conceitos/4.Auto_Scaling.md
-    - 5. AWS VPC:
-      - 5.1. Sobre: conceitos/5.VPC.md
-    - 6. Elastic Beanstalk:
-      - 6.1. Sobre: conceitos/6.Elastic_BeanStalk.md
-    - 7. AWS IAM:
-      - 7.1. Sobre: conceitos/7.IAM.md
-    - 8. Pipeline CI/CD:
-      - 8.1. Sobre: conceitos/8.Pipeline.md
-    - 9. Cluster ECS:
-      - 9.1. Sobre: conceitos/9.ECS.md
-    - 10. Cluster EKS:
-      - 10.1. Sobre: conceitos/10.EKS.md
-    - 11. AWS KMS:
-      - 11.1. Sobre: conceitos/11.KMS.md
-    - 12. AWS Lambda:
-      - 12.1. Sobre: conceitos/12.Lambda.md
-    - 13. AWS Fargate:
-      - 13.1. Sobre: conceitos/13.Fargate.md
-    - 14. AWS S3:
-      - 14.1. Sobre: conceitos/14.S3.md
-    - 15. AWS CloudWatch:
-      - 15.1. Sobre: conceitos/15.CloudWatch.md
+    - Ligthsail:
+        - Introdução: adicional/AWSLightsail.md
+        - Instancia: adicional/topicos/AWSLigthsailInstancia.md
+        - Administração: adicional/topicos/AWSLigthsailAdmin.md
+        - Container: adicional/topicos/AWSLigthsailContainer.md
 
   - Conteudo adicional:
       - Cabeamento: 
         - Laboratório: adicional/0.Cabeamento.md
       - Governanca Internet: 
         - Videos: adicional/Videos_ref.md
-      - Ligthsail:
-          - Introdução: adicional/AWSLightsail.md
-          - Instancia: adicional/topicos/AWSLigthsailInstancia.md
-          - Administração: adicional/topicos/AWSLigthsailAdmin.md
-          - Container: adicional/topicos/AWSLigthsailContainer.md
+
 
