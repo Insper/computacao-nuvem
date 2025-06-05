@@ -224,8 +224,10 @@ nav:
       - App: roteiros/5.app.md
 
   - Tutoriais:
+    - Introdução: adicional/AWSLightsail.md
   
   - Projeto- 2025-2:
+    - Introdução: adicional/AWSLightsail.md
 
   - Arquivo:
     - Projetos 2022:
