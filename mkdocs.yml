@@ -224,10 +224,13 @@ nav:
       - App: roteiros/5.app.md
 
   - Tutoriais:
-    - Introdução: adicional/AWSLightsail.md
+    - Introdução: tutoriais/index.md
   
-  - Projeto- 2025-2:
-    - Introdução: adicional/AWSLightsail.md
+  - Plano de Aula:
+    - metodologia: plano_aula/index.md
+
+  - Projeto:
+    - Introdução: projetos_2025-2/index.md
 
   - Arquivo:
     - Projetos 2022:
