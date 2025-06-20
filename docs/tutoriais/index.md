@@ -1,8 +1,6 @@
 # Tutoriais
 
-Aqui está um texto bem estruturado e uma tabela explicativa para você inserir no seu site MkDocs:
 
----
 
 ## Como acessar e utilizar o conteúdo da AWS Academy (Foundation)
 
@@ -16,8 +14,6 @@ Para acessar, siga os passos:
 2. Dentro do ambiente virtual, localize o link de acesso ao **AWS Academy: Cloud Foundations**.
 3. Após clicar, você será redirecionado para a plataforma da AWS Academy, onde o conteúdo estará liberado para estudo.
 4. Navegue pelos módulos para se ambientar com os **Labs** que utilizaremos.
-
----
 
 
 
