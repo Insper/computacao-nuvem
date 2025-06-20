@@ -2,7 +2,7 @@
 
 
 
-## Como acessar e utilizar o conteúdo da AWS Academy (Foundation)
+## Como acessar e utilizar o conteúdo da AWS Academy
 
 Como parte do conteúdo complementar da disciplina de Computação em Nuvem, os alunos terão acesso ao **AWS Academy**, uma plataforma oficial da Amazon que oferece treinamentos e laboratórios práticos sobre os serviços AWS.
 
@@ -45,7 +45,7 @@ Cada bloco é composto por **duas atividades/laboratórios** da AWS Academy, seg
 
 ### Observação importante
 
-Durante o acompanhamento da disciplina, cada tutorial será marcado como **"APS" (Avaliação de Prática Supervisionada)"** na plataforma PrairieLearn, onde serão documentados o progresso de cada Tutorial.
+Durante o acompanhamento da disciplina, cada tutorial será marcado como **"APS"** na plataforma PrairieLearn, onde serão documentados o progresso de cada Tutorial.
 
 
 **Voltar para [Início](../index.md)**
