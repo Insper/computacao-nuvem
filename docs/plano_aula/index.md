@@ -141,40 +141,32 @@ Ao final da disciplina, os alunos terão desenvolvido não apenas competências 
 A avaliação da disciplina é composta por duas partes principais: **Nota Individual** e **Nota em Grupo**, cada uma representando 50% da nota final.
 
 !!! warning "Atenção"
-    Nota Individual (50% da nota final):
+    Nota Individual (45% da nota final):
 
     Esta nota será calculada com base na média dos quatro Quiz (Exams) realizadas ao longo do semestre.
 
-    **Critério de Barreira**: a participação na Quiz 4 é **obrigatória**. O aluno que não fizer a última arguição estará automaticamente reprovado, independentemente do desempenho nas anteriores.
+    **Critério de Barreira**: a participação na Quiz 4 é **obrigatória**. O aluno que não fizer o última Quiz estará automaticamente reprovado, independentemente do desempenho nos anteriores.
+
+    Nota Individual (5% da nota final):
+    Desempenho nos exercícios teóricos: O aluno deve atingir 100% de acerto em todas as atividades teóricas dos quatro módulos.    
 
 !!! warning "Atenção"
-    Nota em Grupo (50% da nota final):
+    Nota em Grupo (45% da nota final):
 
     Corresponde ao desempenho no Projeto Final, que será desenvolvido em equipe.
 
     **Critério de barreira**: a entrega do Projeto Final é obrigatória. A não entrega do projeto resultará em reprovação na disciplina, independentemente das demais notas.
 
-Bônus de Desempenho
-Além da nota regular, os alunos terão a oportunidade de conquistar pontos extras por desempenho nas atividades de exercícios e tutoriais:
-
-Bônus por desempenho nos exercícios teóricos:
-Se o aluno atingir 100% de acerto em todas as atividades teóricas dos quatro módulos, ganhará 1 ponto extra na média das arguições individuais.
-
-Bônus por conclusão dos tutoriais práticos:
-Se o aluno concluir todos os tutoriais práticos dos quatro módulos (total de 8 tutoriais), ganhará 1 ponto extra que será adicionado à nota do Projeto Final (em grupo).
-Este bônus é atribuído individualmente a cada aluno, mas aplicado sobre a parte do projeto.
-
-Bônus por conclusão do Roteiro 5:
-Se o Aluno, após a conclusão dos 4 Roteiros obrigatórios, fazer e finalizar o Roteiro 5, ganhará 1 ponto extra que será adicionado para ambos integrantes à nota da média final.
+    Nota em Grupo (5% da nota final):
+    Conclusão dos tutoriais práticos: O aluno deve concluir todos os tutoriais práticos dos quatro módulos (total de 8 tutoriais), isso dará um acrescimo **individual** a sua nota relacionada ao projeto. 
 
 
 | Item | Peso na Nota Final | Observações |
 |---|---|---|
-| **Média dos Quizes Individuais** | **50%** | Média dos 4 Quiz. O **Quiz 4 é obrigatório**: ausência resulta em reprovação independente das demais notas. |
-| **Projeto Final (Trabalho em Grupo)** | **50%** | Entrega obrigatória. **A não entrega reprova automaticamente o aluno**. |
-| **Bônus 1 – Exercícios Teóricos (100%)** | **+1 ponto na média final do Quiz** | Aluno que atingir **100% em todos os exercícios teóricos dos 4 módulos** recebe 1 ponto extra na média das arguições. |
-| **Bônus 2 – Conclusão de Todos os Tutoriais** | **+1 ponto na nota final do projeto** | Aluno que concluir **todos os 8 tutoriais práticos dos 4 módulos** recebe **1 ponto extra na sua nota individual no Projeto Final**. |
-| **Bônus 3 – Conclusão do Roteiro 5** | **+1 ponto na nota final** | Ao grupo que **fizer e concluir o Roteiro 5** recebe **1 ponto extra na sua nota Final**. |
+| **Média dos Quizes Individuais** | **45%** | Média dos 4 Quiz. O **Quiz 4 é obrigatório**: ausência resulta em reprovação independente das demais notas. |
+| **Projeto Final (Trabalho em Grupo)** | **45%** | Entrega obrigatória. **A não entrega reprova automaticamente o aluno**. |
+|   **Exercícios Teóricos (100%)** | **5%** | Aluno que atingir **100% em todos os exercícios teóricos dos 4 módulos**. |
+|  **Conclusão de Todos os Tutoriais** | **5%** | Aluno que concluir **todos os 8 tutoriais práticos dos 4 módulos**. |
 
 
 
@@ -182,4 +174,3 @@ Se o Aluno, após a conclusão dos 4 Roteiros obrigatórios, fazer e finalizar o
 
 - A disciplina adota o modelo de progressão por domínio (Mastery Learning).
 - O Projeto Final e o QUIZ 4 são componentes de critério de barreira.
-- Os pontos de Bonus servem para os alunos que precisarem recuperar nota e o acréscimo dos pontos **não** podem ultrapassar a nota 10 em cada quesito.
