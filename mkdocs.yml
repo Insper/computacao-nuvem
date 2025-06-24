@@ -203,6 +203,7 @@ nav:
   - Roteiros:
     - Roteiro 1 MAAS: 
       - Objetivo : roteiros/1.objetivo.md
+      - Cabeamento: roteiros/1.cabeamento.md      
       - Infra: roteiros/1.infra.md
       - App: roteiros/1.app.md
     - Roteiro 2 JUJU:
@@ -238,7 +239,6 @@ nav:
       - Davi Reis: projetos_2022/DaviReisVieira.md
     - Projeto 2023:
       - Rubrica: projetos_2023/2023-2_projeto.md
-      - Andre: projetos_2023/README_andre.md
       - Rodrigo: projetos_2023/README_rodrigo.md
     - Projeto 2024:
       - Rubrica: projetos_2024-1/2024-1_projeto.md
@@ -253,8 +253,6 @@ nav:
         - Container: adicional/topicos/AWSLigthsailContainer.md
 
   - Conteudo adicional:
-      - Cabeamento: 
-        - Laboratório: adicional/0.Cabeamento.md
       - Governanca Internet: 
         - Videos: adicional/Videos_ref.md
 

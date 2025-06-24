@@ -1,4 +1,4 @@
-# Projeto 2024.2
+# Projeto 2024_2
 
 !!! info inline end
 
@@ -402,11 +402,3 @@ compose.yaml
  ✔ Container projeto-api-3  Removed    10.5s 
  ✔ Network projeto_default  Removed 
 ```
-
-## Referências
-
-[^1]: [Introduction to JSON Web Tokens](https://jwt.io/introduction){target='_blank'}
-
-[^2]: [How to containerize different types of services](https://docs.docker.com/samples/){target='_blank'}
-
-[^3]: :fontawesome-brands-youtube:{ .youtube } [Como criar um cluster Kubernetes na AWS com EKS](https://youtu.be/JrT5YV1KMeY){:target="_blank"} por [Fabricio Veronez](https://github.com/fabricioveronez){:target="_blank"}
