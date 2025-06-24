@@ -145,7 +145,7 @@ A avaliação da disciplina é composta por duas partes principais: **Nota Indiv
 
     Esta nota será calculada com base na média dos quatro Quiz (Exams) realizadas ao longo do semestre.
 
-    **Critério de Barreira**: a participação na Quiz 4 é **obrigatória**. O aluno que não fizer o última Quiz estará automaticamente reprovado, independentemente do desempenho nos anteriores.
+    **Critério de Barreira**: a participação no Quiz 4 é **obrigatória**. O aluno que não fizer o último Quiz estará automaticamente reprovado, independentemente do desempenho nos anteriores.
 
     Nota Individual (5% da nota final):
     Desempenho nos exercícios teóricos: O aluno deve atingir 100% de acerto em todas as atividades teóricas dos quatro módulos.    
