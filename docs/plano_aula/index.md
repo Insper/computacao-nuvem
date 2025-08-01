@@ -169,24 +169,26 @@ A avaliação da disciplina é composta por duas partes principais: **Nota Indiv
 |  **Conclusão de Todos os Tutoriais** | **5%** | Aluno que concluir **todos os 8 tutoriais práticos dos 4 módulos**. |
 
 
+## Datas Limite para os Exames
+Como parte da estratégia de progressão por domínio adotada pela disciplina, cada aluno pode realizar os Quizzes no momento que se sentir preparado e tiver passado pelos pontos de controle. No entanto, para garantir o ritmo adequado de avanço e evitar atrasos que prejudiquem o andamento geral do aluno, foram estabelecidas datas limite para os Exames "1 e 2" e "3 e 4" e para o projeto final:
+
+Exam 1 e 2 – QUIZ: devem ser realizados até o dia 23/09/2025.
+
+Exam 3 e 4 – QUIZ: devem ser realizados até o dia 23/11/2025.
+
+Projeto Final: deve ser realizado até o dia 23/11/2025.
+
+!!! danger "IMPORTANTE !!!  -->  PRAZOS"
+    **TODAS AS ENTREGAS SE ENCERRAM NO DIA 23/11/2025 ÀS 23:55, NENHUMA ENTREGA PODE SER FEITA APÓS ESTA DATA**
+
+    Após a data 23/09/2025, o sistema ainda permitirá a realização dos Exam 1 e 2, até a data **FINAL - 23/11/2025**, porém o aluno não poderá obter nota superior a 5,0 nessas avaliações.
+    Ou seja, a nota será limitada a 5 caso o Exam seja entregue após o prazo estipulado, independentemente da nota do Quiz.
+    No caso do projeto final, não existe possibilidade de entrega atrasada, este projeto não será adiado!!!
+
+    Essa medida busca estimular o comprometimento contínuo ao longo do semestre e a responsabilidade com os marcos de entrega, fundamentais para o sucesso no modelo de aprendizagem adotado.
+
 
 ## Observações Gerais
 
 - A disciplina adota o modelo de progressão por domínio (Mastery Learning).
 - O Projeto Final e o QUIZ 4 são componentes de critério de barreira.
-
-## Datas Limite para os Exames
-Como parte da estratégia de progressão por domínio adotada pela disciplina, cada aluno pode realizar os Quizzes no momento que se sentir preparado e tiver passado pelos pontos de controle. No entanto, para garantir o ritmo adequado de avanço e evitar atrasos que prejudiquem o andamento geral do aluno, foram estabelecidas datas limite para os Exames "2" e "4" e para o projeto final:
-
-Exam 2 – QUIZ 2: deve ser realizado até o dia 23/09/2025.
-
-Exam 4 – QUIZ 4: deve ser realizado até o dia 23/11/2025.
-
-Projeto Final: deve ser realizado até o dia 23/11/2025.
-
-!!! danger "Importante"
-    Após essas datas, o sistema ainda permitirá a realização dos Exames, porém o aluno não poderá obter nota superior a 5,0 nessas avaliações.
-    Ou seja, a nota será limitada a 5 caso o Exam seja entregue após o prazo estipulado, independentemente da nota do Quiz.
-    No caso do projeto final, não existe possibilidade de entrega atrasada, este projeto não será adiado!!!
-
-    Essa medida busca estimular o comprometimento contínuo ao longo do semestre e a responsabilidade com os marcos de entrega, fundamentais para o sucesso no modelo de aprendizagem adotado.
