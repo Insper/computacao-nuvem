@@ -172,16 +172,16 @@ A avaliação da disciplina é composta por duas partes principais: **Nota Indiv
 ## Datas Limite para os Exames
 Como parte da estratégia de progressão por domínio adotada pela disciplina, cada aluno pode realizar os Quizzes no momento que se sentir preparado e tiver passado pelos pontos de controle. No entanto, para garantir o ritmo adequado de avanço e evitar atrasos que prejudiquem o andamento geral do aluno, foram estabelecidas datas limite para os Exames "1 e 2" e "3 e 4" e para o projeto final:
 
-Exam 1 e 2 – QUIZ: devem ser realizados até o dia 23/09/2025.
+Exam 1 e 2 – QUIZ: devem ser realizados até o dia 24/09/2025.
 
-Exam 3 e 4 – QUIZ: devem ser realizados até o dia 23/11/2025.
+Exam 3 e 4 – QUIZ: devem ser realizados até o dia 26/11/2025.
 
-Projeto Final: deve ser realizado até o dia 23/11/2025.
+Projeto Final: deve ser realizado até o dia 26/11/2025.
 
 !!! danger "IMPORTANTE !!!  -->  PRAZOS"
-    **TODAS AS ENTREGAS SE ENCERRAM NO DIA 23/11/2025 ÀS 23:55, NENHUMA ENTREGA PODE SER FEITA APÓS ESTA DATA**
+    **TODAS AS ENTREGAS SE ENCERRAM NO DIA 26/11/2025 ÀS 12:00(meio dia), NENHUMA ENTREGA PODE SER FEITA APÓS ESTA DATA**
 
-    Após a data 23/09/2025, o sistema ainda permitirá a realização dos Exam 1 e 2, até a data **FINAL - 23/11/2025**, porém o aluno não poderá obter nota superior a 5,0 nessas avaliações.
+    Após a data 24/09/2025, o sistema ainda permitirá a realização dos Exam 1 e 2, até a data **FINAL - 26/11/2025**, porém o aluno não poderá obter nota superior a 5,0 nessas avaliações.
     Ou seja, a nota será limitada a 5 caso o Exam seja entregue após o prazo estipulado, independentemente da nota do Quiz.
     No caso do projeto final, não existe possibilidade de entrega atrasada, este projeto não será adiado!!!
 
