@@ -186,7 +186,7 @@ Projeto Final: deve ser realizado até o dia 26/11/2025.
     **TODAS AS ENTREGAS SE ENCERRAM NO DIA 26/11/2025 ÀS 12:00(meio dia), NENHUMA ENTREGA PODE SER FEITA APÓS ESTA DATA**
 
     Após a data 24/09/2025, o sistema ainda permitirá a realização dos Exam 1 e 2, até a data **FINAL - 26/11/2025**, porém o aluno não poderá obter nota superior a 5,0 nessas avaliações.
-    Ou seja, a nota será limitada a 5 caso o Exam seja entregue após o prazo estipulado, independentemente da nota do Quiz.
+    Ou seja, a nota será limitada a 5 caso o Exam seja entregue após o prazo 24/09/2025 estipulado, independentemente da nota do Quiz e não será aceito após a data Final 26/11/2025.
     No caso do projeto final, não existe possibilidade de entrega atrasada, este projeto não será adiado!!!
 
     Essa medida busca estimular o comprometimento contínuo ao longo do semestre e a responsabilidade com os marcos de entrega, fundamentais para o sucesso no modelo de aprendizagem adotado.
