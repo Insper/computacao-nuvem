@@ -133,24 +133,26 @@ O progresso do curso só ocorre quando o aluno completa as três trilhas e faz u
 
 # ✅ Regras para liberar o **Exam (Quiz) de cada módulo**
 
-Para ter acesso ao **Exam** do módulo, você precisa cumprir **todas as condições abaixo**:
+Para ter acesso ao **Exam** do módulo, você precisa cumprir **todas as condições**:
 
-1. **Roteiro do módulo (100%)**  
+1. **Roteiro do módulo — 100%**
 
-   - Concluir o roteiro completo do módulo.  
-   - Entregar todas as **evidências (prints)** solicitadas.  
+    - Concluir o roteiro completo do módulo.
+    - Entregar todas as **evidências (prints)** solicitadas.
 
-2. **Teoria (70%)**  
+2. **Teoria — 70%**
 
-   - Realizar pelo menos **70% dos exercícios no PrairieLearn** relacionados à teoria de redes.  
+    - Realizar **pelo menos 70%** dos exercícios no **PrairieLearn** (teoria de redes).
 
-3. **Tutoriais AWS (50%)**  
+3. **Tutoriais AWS — 50%**
 
-   - Cada módulo contém **2 laboratórios práticos de AWS**.  
-   - Você precisa completar **pelo menos 1 dos 2 (50%)** para desbloquear o Exam.  
+    - Cada módulo contém **2** laboratórios práticos de AWS.
+    - Complete **1 dos 2** (≥ **50%**) para desbloquear o Exam.
+
 ---
 
-📌 **Importante:** o **Exam do módulo só será liberado** quando **todas as condições acima forem atendidas**.
+📌 **O Exam só será liberado quando as três condições forem atendidas.**
+
 
 
 Além das trilhas e exames, os alunos desenvolvem um Projeto Final, iniciado desde o primeir mês e conduzido de forma paralela ao restante da disciplina. Este projeto é dividido em duas fases:
