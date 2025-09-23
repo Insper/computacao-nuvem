@@ -136,13 +136,16 @@ O progresso do curso só ocorre quando o aluno completa as três trilhas e faz u
 Para ter acesso ao **Exam** do módulo, você precisa cumprir **todas as condições abaixo**:
 
 1. **Roteiro do módulo (100%)**  
+
    - Concluir o roteiro completo do módulo.  
    - Entregar todas as **evidências (prints)** solicitadas.  
 
 2. **Teoria (70%)**  
+
    - Realizar pelo menos **70% dos exercícios no PrairieLearn** relacionados à teoria de redes.  
 
 3. **Tutoriais AWS (50%)**  
+
    - Cada módulo contém **2 laboratórios práticos de AWS**.  
    - Você precisa completar **pelo menos 1 dos 2 (50%)** para desbloquear o Exam.  
 ---
