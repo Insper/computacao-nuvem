@@ -131,6 +131,25 @@ O curso está organizado em quatro módulos sequenciais, cada um com foco em dif
 
 O progresso do curso só ocorre quando o aluno completa as três trilhas e faz um QUIZ (Exam) na plataforma PrairieLearn correspondente ao módulo. Esses Quiz funcionam como barreiras de progressão, seguindo o modelo **Assessment Locked**, onde a aprovação é condição necessária para liberar o acesso ao próximo QUIZ, porém o aluno pode percorrer as atividades Tutoriais e Teoria como achar mais proveitoso em seus estudos de modo a facilitar como cada individuo trata a disciplina.
 
+# ✅ Regras para liberar o **Exam (Quiz) de cada módulo**
+
+Para ter acesso ao **Exam** do módulo, você precisa cumprir **todas as condições abaixo**:
+
+1. **Roteiro do módulo (100%)**  
+   - Concluir o roteiro completo do módulo.  
+   - Entregar todas as **evidências (prints)** solicitadas.  
+
+2. **Teoria (70%)**  
+   - Realizar pelo menos **70% dos exercícios no PrairieLearn** relacionados à teoria de redes.  
+
+3. **Tutoriais AWS (50%)**  
+   - Cada módulo contém **2 laboratórios práticos de AWS**.  
+   - Você precisa completar **pelo menos 1 dos 2 (50%)** para desbloquear o Exam.  
+---
+
+📌 **Importante:** o **Exam do módulo só será liberado** quando **todas as condições acima forem atendidas**.
+
+
 Além das trilhas e exames, os alunos desenvolvem um Projeto Final, iniciado desde o primeir mês e conduzido de forma paralela ao restante da disciplina. Este projeto é dividido em duas fases:
 
 - Construção manual de uma infraestrutura escalável, aplicando os conceitos práticos adquiridos.
