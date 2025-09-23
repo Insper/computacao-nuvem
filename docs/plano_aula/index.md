@@ -149,11 +149,10 @@ Para ter acesso ao **Exam** do módulo, você precisa cumprir **todas as condiç
     - Cada módulo contém **2** laboratórios práticos de AWS.
     - Complete **1 dos 2** (≥ **50%**) para desbloquear o Exam.
 
----
 
 📌 **O Exam só será liberado quando as três condições forem atendidas.**
 
-
+---
 
 Além das trilhas e exames, os alunos desenvolvem um Projeto Final, iniciado desde o primeir mês e conduzido de forma paralela ao restante da disciplina. Este projeto é dividido em duas fases:
 
