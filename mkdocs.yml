@@ -219,7 +219,7 @@ nav:
       - Objetivo: roteiros/4.objetivo.md
       - Infra: roteiros/4.infra.md
       - App: roteiros/4.app.md
-    - Roteiro 5 Docker e Kubernetes:
+    - Roteiro 5 Docker e Kubernetes "Opcional":
       - Objetivo: roteiros/5.objetivo.md
       - Infra: roteiros/5.infra.md
       - App: roteiros/5.app.md
