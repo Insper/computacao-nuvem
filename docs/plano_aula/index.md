@@ -13,28 +13,28 @@ config:
 ---
 flowchart LR
  subgraph subGraph0["Módulo 1"]
-        j0["Data de finalização sugerida: 05/09/2025"]
+        j0["Data de finalização sugerida: 12/03/2026"]
         R1["Roteiro 1 - MAAS"]
         TE1["Teoria 1 - Redes"]
         T1["Tutorial 1 - AWS"]
         i0[" "]
   end
  subgraph subGraph1["Módulo 2"]
-        j1["Data de finalização sugerida: 19/09/2025"]
+        j1["Data de finalização sugerida: 18/03/2026"]
         R2["Roteiro 2 - JUJU"]
         TE2["Teoria 2 - Redes"]
         T2["Tutorial 2 - AWS"]
         i1[" "]
   end
  subgraph subGraph2["Módulo 3"]
-        j2["Data de finalização sugerida: 31/10/2025"]
+        j2["Data de finalização sugerida: 14/05/2026"]
         R3["Roteiro 3 - OpenStack"]
         TE3["Teoria 3 - Redes"]
         T3["Tutorial 3 - AWS"]
         i2[" "]
   end
  subgraph subGraph3["Módulo 4"]
-        j3["Data de finalização sugerida: 07/11/2025"]
+        j3["Data de finalização sugerida: 21/05/2026"]
         R4["Roteiro 4 - OpenStack"]
         TE4["Teoria 4 - Redes"]
         T4["Tutorial 4 - AWS"]
