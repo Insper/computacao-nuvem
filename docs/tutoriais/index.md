@@ -36,10 +36,10 @@ Cada bloco é composto por **duas atividades/laboratórios** da AWS Academy, seg
 
 | Tutorial da Disciplina | Atividades da AWS Academy (Labs)                                                                                                                                                     |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Tutorial 1             | Laboratório 1 - Introdução ao IAM<br>Laboratório 2 - Crie sua VPC e execute um servidor web                                                                                          |
-| Tutorial 2             | Laboratório 3 - Introdução ao Amazon EC2<br>Atividade: AWS Lambda                                                                                                                    |
-| Tutorial 3             | Atividade: AWS Elastic Beanstalk<br>Laboratório 4 - Trabalhando com EBS                                                                                                              |
-| Tutorial 4             | Laboratório 5 - Crie um servidor de banco de dados e interaja com o banco de dados usando um aplicativo<br>Laboratório 6 - Ajuste a escala e o balanceamento de carga da arquitetura |
+| Módulo 1             | Laboratório 1 - Introdução ao IAM<br>Laboratório 2 - Crie sua VPC e execute um servidor web                                                                                          |
+| Módulo 2             | Laboratório 3 - Introdução ao Amazon EC2<br>Atividade: AWS Lambda                                                                                                                    |
+| Módulo 3             | Atividade: AWS Elastic Beanstalk<br>Laboratório 4 - Trabalhando com EBS                                                                                                              |
+| Módulo 4             | Laboratório 5 - Crie um servidor de banco de dados e interaja com o banco de dados usando um aplicativo<br>Laboratório 6 - Ajuste a escala e o balanceamento de carga da arquitetura |
 
 ---
 
