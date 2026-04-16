@@ -203,7 +203,7 @@ Exam 1 e 2 – QUIZ: devem ser realizados até o dia 20/03/2026.
 
 Exam 3 e 4 – QUIZ: devem ser realizados até o dia 22/05/2026.
 
-Projeto Final: deve ser realizado até o dia 08/05/2026.
+Projeto Final: deve ser realizado até o dia 20/05/2026.
 
 !!! danger "IMPORTANTE !!!  -->  PRAZOS"
     **TODAS AS ENTREGAS SE ENCERRAM NO DIA 26/05/2026 ÀS 12:00(meio dia), NENHUMA ENTREGA NO PRAIRIELEARN PODE SER FEITA APÓS ESTA DATA**
